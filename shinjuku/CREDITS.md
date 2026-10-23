@@ -1,9 +1,10 @@
 # Shinjuku
 
-KubaOS Shinjuku's own set: five stills, each checked to be Shinjuku. The quoted text is each photo page's location or description, which is how it was checked.
+KubaOS Shinjuku's own set: five photos, each checked to be Shinjuku, and the KubaOS sign. The quoted text is each photo page's location or description, which is how it was checked.
 
 | File | Size | Photographer | Source | License |
 |---|---|---|---|---|
+| `kubaos-neon-sign.jpg` | 3840x2560 | Generated with ChatGPT (OpenAI) for KubaOS, upscaled 4x with Real-ESRGAN (Upscayl, Remacri model) | Not a real place: the KubaOS logo as a neon sign | CC0 1.0: no rights reserved |
 | `kabukicho-red-gate.jpg` | 3840x2560 | Manuel Cosentino | [unsplash.com/photos/d92I1Of2ofQ](https://unsplash.com/photos/d92I1Of2ofQ) ("Kabukicho, Shinjuku, Japan") | [Unsplash License](https://unsplash.com/license) |
 | `omoide-yokocho-lanterns.jpg` | 3840x2560 | Pema G. Lama | [unsplash.com/photos/6cfK0SEtpbY](https://unsplash.com/photos/6cfK0SEtpbY) ("Omoide Yokochō, Nishishinjuku") | [Unsplash License](https://unsplash.com/license) |
 | `skyline-fuji-dusk.jpg` | 3840x2560 | LoboStudio Hamburg | [unsplash.com/photos/qKZzNC5mqTw](https://unsplash.com/photos/qKZzNC5mqTw) ("Shinjuku, Tokyo, Japan") | [Unsplash License](https://unsplash.com/license) |
